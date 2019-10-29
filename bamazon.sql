@@ -14,7 +14,7 @@ CREATE TABLE products (
 SELECT * FROM products;
 
 INSERT INTO products (product_name, department_name, price, stock_quantity) 
-VALUES ('Saved by the Bell: Season 6 on DVD', 'Movies & TV', 19.99, 7), 
+VALUES ('Saved by the Bell Season 6 on DVD', 'Movies & TV', 19.99, 7), 
 ('101 Dad Jokes', 'Books', 7.95, 200), 
 ('Mini-Fridge', 'Appliances', 209.98, 103), 
 ('Lock of George Washington"s Hair', 'Collectibles & Fine Art', 795.95, 1), 
